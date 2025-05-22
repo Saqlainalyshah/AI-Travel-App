@@ -1,5 +1,13 @@
 # ai_travel_app
 
+![Image](https://github.com/user-attachments/assets/ab52c3a7-c5fc-4f87-a33a-5f0d8819fad5)
+
+![Image](https://github.com/user-attachments/assets/87496bdd-828a-44e9-865d-281b14ca7d86)
+
+![Image](https://github.com/user-attachments/assets/164b6f64-7df1-40b4-8b3a-2118d3045cc8)
+
+![Image](https://github.com/user-attachments/assets/adcd8360-5dff-41fa-8825-db60c3932815)
+
 A new Flutter project.
 
 ## Getting Started
